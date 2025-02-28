@@ -12,7 +12,7 @@
 
 ## Note
 1. 直接运行第三步的代码即可：
-<a href='/Dataset3/jy_data/Github/MM-TTP/Dataset-Construction/collect_blbl_ttp_data.py'>collect_blbl_ttp_data.py</a>
+<a href='https://github.com/FRENKIE-CHIANG/Multimodal-TTP/blob/main/Dataset-Construction/collect_blbl_ttp_data.py'>collect_blbl_ttp_data.py</a>
 
 2. 需要提前下载对应Chrome版本的 chromedriver.exe，存放路径： MM-TTP/Dataset-Construction/chromedriver.exe
 
