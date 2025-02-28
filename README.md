@@ -1,4 +1,4 @@
-# Multimodal TTP Project
+# Multimodal TPP Project
 
 ## 爬虫代码
 1. 获取up的主页（2024全部百大up）：
@@ -24,7 +24,7 @@
 
 3. 需要提前构建文件目录组织，创建Data-Save文件夹，格式如下：
    ```
-    Multimodal-TTP/
+    Multimodal-TPP/
     ├── Dataset-Construction/
     ├── Data-Save/
     │   ├── image/
