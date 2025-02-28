@@ -22,3 +22,16 @@
 
     2）新版Chrome for Testing（适用于Chrome 114+）：https://googlechromelabs.github.io/chrome-for-testing/
 
+3. 需要提前构建文件目录组织，创建Data-Save文件夹，格式如下：
+   ```
+    Multimodal-TTP/
+    ├── Dataset-Construction/
+    ├── Data-Save/
+    │   ├── image/
+    │   ├── danmaku/
+    │   ├── analyze/
+    │   ├── video/
+    │   └── audio/
+    └── ...
+    ```
+    
