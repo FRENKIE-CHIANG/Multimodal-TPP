@@ -14,15 +14,7 @@
 1. 直接运行第三步的代码即可：
 <a href='https://github.com/FRENKIE-CHIANG/Multimodal-TTP/blob/main/Dataset-Construction/collect_blbl_ttp_data.py'>collect_blbl_ttp_data.py</a>
 
-2. 需要提前下载对应Chrome版本的 chromedriver.exe，存放路径： MM-TTP/Dataset-Construction/chromedriver.exe
-
-    下载链接：
-    
-    1）ChromeDriver官方仓库：https://chromedriver.storage.googleapis.com/index.html
-
-    2）新版Chrome for Testing（适用于Chrome 114+）：https://googlechromelabs.github.io/chrome-for-testing/
-
-3. 需要提前构建文件目录组织，创建Data-Save文件夹，格式如下：
+2. 建议提前构建文件目录组织，创建Data-Save文件夹，格式如下：
    ```
     Multimodal-TPP/
     ├── Dataset-Construction/
