@@ -18,8 +18,7 @@
 
 2. It's recommended to set up the directory structure beforehand. Create a Data-Save folder with the following format:
 3. The BILI-TPP dataset constructed in this project:
-
-https://huggingface.co/datasets/FRENKIE-CHIANG/BILI-TPP
+   https://huggingface.co/datasets/FRENKIE-CHIANG/BILI-TPP
 
 ## Citation
 If you find this dataset helpful in your research, please consider citing:
