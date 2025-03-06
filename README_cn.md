@@ -36,7 +36,7 @@ If you find this dataset helpful in your research, please consider citing:
 @misc{BILI-TPP,
   author = {Yue Jiang and Quyu Kong and Feng Zhou},
   title = {Multimodal-TPP: A Multimodal Temporal Point Process Dataset},
-  year = {2024},
+  year = {2025},
   publisher = {GitHub},
   url = {https://github.com/FRENKIE-CHIANG/Multimodal-TPP}
 }
