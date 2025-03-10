@@ -23,11 +23,12 @@
 ## Citation
 If you find this dataset helpful in your research, please consider citing:
 ```bibtex
-@misc{BILI-TPP,
+@software{BILI-TPP,
   author = {Yue Jiang and Quyu Kong and Feng Zhou},
   title = {Multimodal-TPP: A Multimodal Temporal Point Process Dataset},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/FRENKIE-CHIANG/Multimodal-TPP}
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/FRENKIE-CHIANG/Multimodal-TPP}},
 }
 ```
